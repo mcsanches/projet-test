@@ -28,3 +28,26 @@ footer li {
     margin-left:40px;
     margin-right:40px;
 }
+
+main{ 
+max-width: 800px;
+margin:auto;
+padding-left: 20px;
+    padding-right: 20px;
+    background-color: white;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+.main-center{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+main img{
+    border-radius:20px;
+}
